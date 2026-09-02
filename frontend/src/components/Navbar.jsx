@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Menu, X, Terminal } from "lucide-react";
 
 export default function Navbar() {
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen,  setIsOpen] = useState(false);
 
   const navLinks = [
     { name: "About", href: "#about" },
