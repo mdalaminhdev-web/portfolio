@@ -4,7 +4,7 @@ function Home() {
   return (
     <main>
       <h1>Al-Amin Hossain</h1>
-      <p>Full-Stack Software Engineer</p>
+      <p>Full-Stack Software  Engineer from AUST</p>
     </main>
   );
 }
